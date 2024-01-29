@@ -21,3 +21,5 @@ The CONTACT form could be edited or create new pages to connect the endpoints fo
 2. SMS (I have used Twilio)
 
 This solution could be integrated with Synergyerp's Actionable Messaging product to optimise communication and save costs.
+
+Create .env file to configure your email address and password.
